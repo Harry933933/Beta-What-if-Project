@@ -1,0 +1,37 @@
+body {
+    background-color: #FF5757;
+    border-style: groove;
+    border-width: 10px;
+    border-color: aqua;
+    border-radius: 20px;
+}
+#menu_button{
+    font-size: 50px; background-color: aqua; border-radius: 10px; position:absolute; right: 10px;
+}
+#world_weird_question_text{
+    color: #7CD651;
+    border-bottom: 5px dashed rgb(194, 12, 194);
+}
+#rightarrow{
+    font-size: 50px; background-color: gold; border-radius: 10PX; float: right
+}
+#leftarrow{
+    font-size: 50px; background-color: gold; border-radius: 10PX; float: left
+}
+#questionmarks{
+    height: 1300px; width: 1800px; background-color: #7CD651; border-radius: 500px;
+    border-style: outset;
+    border-width: 5px;
+    border-color: rgb(0, 94, 255);
+}
+#logo{
+    border-style: dashed;
+    border-width: 5px;
+    border-color: rgb(0, 255, 187);
+    border-radius: 50px;
+}
+#box{
+    height: 100px;
+    width: 60px;
+    background-color: blue;
+}

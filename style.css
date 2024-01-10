@@ -4,6 +4,7 @@ body {
     border-width: 10px;
     border-color: aqua;
     border-radius: 20px;
+    touch-action: pan-y;
 }
 #menu_button{
     font-size: 50px; background-color: aqua; border-radius: 10px; position:absolute; right: 10px;
@@ -19,7 +20,7 @@ body {
     font-size: 50px; background-color: gold; border-radius: 10PX; float: left
 }
 #questionmarks{
-    height: 1300px; width: 1800px; background-color: #7CD651; border-radius: 500px;
+    height: 1300px; width: auto; background-color: #7CD651; border-radius: 500px;
     border-style: outset;
     border-width: 5px;
     border-color: rgb(0, 94, 255);
